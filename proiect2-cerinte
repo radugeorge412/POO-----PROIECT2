@@ -1,0 +1,15 @@
+Se dau clasele: Locuinta(numeClient,suprafata,discount)
+                Apartament(etaj)
+                Casa(suprafataCurte)
+La clasa Locuinta se adauga o metoda pentru Calculul Chiriei (X,Y) cu X=valoare standard chirie/mp,
+Y=1 daca se ia in considerare discountul si 0 daca nu se ia in considerare.
+Metodele vor fi testate prin parcurgerea unui vector de pointeri la clasa Locuinta, incarcat cu obiecte de
+tip Apartament si Casa. Se defineste clasa AgentieImobiliara continand un vector de pointeri de tip Locuinta
+alocat dinamic.
+
+Cerinte:  Constructori,destructor, supraincarcare operatori, mosteniri&encapsulare;
+          Ilustrarea conceptelor de upcasting,downcasting, functii virtuale;
+          Citirea informatiilor complete a n obiecte,memorarea si afisarea acestora;
+          Meniu interactiv;
+          Cerinte suplimentare;
+        
